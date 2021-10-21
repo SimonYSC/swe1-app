@@ -6,4 +6,4 @@ install:
     
 script:
     - black .
-    - flake8 --disable-noqa
+    - flake8
